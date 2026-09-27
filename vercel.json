@@ -1,0 +1,7 @@
+{
+  "name": "china-stock-indicators-api",
+  "version": "1.0.0",
+  "description": "A-share technical indicators API - real-time quotes, K-line data, MACD/RSI/KDJ/Bollinger from Sina finance",
+  "dependencies": {},
+  "runtime": "python3.12"
+}
